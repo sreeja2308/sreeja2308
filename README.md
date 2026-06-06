@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreeja2308" alt="sreeja2308" /></a> </p>
 
-- 🔭 I’m currently working on [**Image Caption Generator (ML Project)**](https://github.com/sreeja2308/Image-Caption-Generator-project)
+- 🔭 I’m currently working on [**Data Analytics Intern (Project-Based) – CodeAlpha**]
 
 - 🌱 I’m currently learning **AIML (Deep Learning), Python, and Data Analysis**
 
